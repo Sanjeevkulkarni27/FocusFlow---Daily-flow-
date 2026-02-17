@@ -20,6 +20,8 @@
 #  Screenshots
 
 ![image alt](https://github.com/Sanjeevkulkarni27/FocusFlow---Daily-flow-/blob/a944853ce63c1ab8f48f097f673bffaa4d2f51d3/Login%20Page.png)
-                                  **LoginPage**
+#                                  **Login Page**
 
 
+![image alt](https://github.com/Sanjeevkulkarni27/FocusFlow---Daily-flow-/blob/cbe68a8f00b9cd07ba16305299d44e5cb8377e47/Dashboard%20page.png)
+#                                  **Dashboard Page 
